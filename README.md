@@ -2,7 +2,7 @@
 
 #### Olá, me chamo Eduardo. Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 4º semestre.
 #### Estou me especializando para ser um desenvolvedor Back-End.
-#### Atualmente, estou me aprofundando em  C#, .Net, SQL, GIT e GitHub.
+#### Atualmente, estou estudando as tecnologias:  C#, .Net, SQL, GIT e GitHub.
 
 <h4>Linguagem de Programação</h4>  
 
