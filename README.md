@@ -4,7 +4,7 @@
 
 Olá, me chamo Eduardo. Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 5º semestre.
 
-Atualmente estou estudando c#.
+Atualmente estou estudando .Net.
 
 ---
 
