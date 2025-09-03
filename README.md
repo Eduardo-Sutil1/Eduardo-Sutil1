@@ -30,6 +30,33 @@ Atualmente estou estudando .Net.
 
 <img 
     align="left" 
+    alt="JS"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Docker"
     title="Docker" 
     width="35px" 
@@ -64,5 +91,5 @@ Atualmente estou estudando .Net.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Sutil1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Sutil1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
