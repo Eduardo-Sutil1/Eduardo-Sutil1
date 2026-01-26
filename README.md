@@ -12,48 +12,14 @@ Atualmente estou estudando .Net.
 
 <img 
     align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
+    alt="java"
+    title="java" 
+    width="38px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 
-<img 
-    align="left" 
-    alt=".Net"
-    title=".Net" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="JS"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
-/>
 
 <img 
     align="left" 
