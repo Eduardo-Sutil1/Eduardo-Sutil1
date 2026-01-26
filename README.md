@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Júnior`**
 
-Olá, me chamo Eduardo. Sou estudante de Análise e Desenvolvimento de Sistemas, cursando o 5º semestre.
+Olá, me chamo Eduardo. Sou estudante de programação.
 
-Atualmente estou estudando .Net.
+Atualmente estou estudando java.
 
 ---
 
